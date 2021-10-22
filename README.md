@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mikim27" target="blank"><img align="center" src="https://alxgroup.com.au/wp-content/uploads/2019/01/facebook-3-logo-png-transparent.png" alt="mikim27" height="30" width="40" /></a>
-<a href="https://instagram.com/mikolaj.mroczkowski" target="blank"><img align="center" src="https://www.jaspersomsen.com/wp-spullies/uploads/2017/03/instagram-Logo-PNG-Transparent-Background-download.png alt="mikolaj.mroczkowski" height="30" width="40" /></a>
-<a href="https://discord.gg/5V4ajVDF" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="HE7Q5cvF" height="30" width="40" /></a>
+<a href="https://fb.com/mikim27" target="blank"><img align="center" src="https://alxgroup.com.au/wp-content/uploads/2019/01/facebook-3-logo-png-transparent.png" alt="mikim27" height="40" width="40" /></a>
+<a href="https://instagram.com/mikolaj.mroczkowski" target="blank"><img align="center" src="https://www.jaspersomsen.com/wp-spullies/uploads/2017/03/instagram-Logo-PNG-Transparent-Background-download.png" alt="mikolaj.mroczkowski" height="40" width="40" /></a>
+<a href="https://discord.gg/5V4ajVDF" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="HE7Q5cvF" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
