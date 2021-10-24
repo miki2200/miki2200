@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
-<h3 align="center">I'm student of Technischools 1st class I'm 14 yo.</h3>
+<h3 align="center">I'm student of <a href="https://technischools.com">Technischools</a> 1st class. Programing is my main hobby.</h3>
 
 - 🔭 I'm working on [Muzyka](https://github.com/miki2200/muzyka)
 
