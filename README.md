@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
 <h3 align="center">I'm student of <a href="https://technischools.com"><img src="https://technischools.com/wp-content/uploads/2021/04/logoBlue-1.png" alt="Technischools" height="50px"></a> 1st class. Programing is my main hobby.</h3>
 
-- 🔭 I'm working on [Muzyka](https://github.com/miki2200/muzyka)
-
-- 🌱 I'm learning **jquery.**
-
-- 👯 I’m looking to collaborate on [Muzyka](https://github.com/miki2200/muzyka)
+- 🔭 I'm working on [Grafikv2](https://github.com/MikolajMroczkowski/grafikv2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
