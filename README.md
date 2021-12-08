@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
 <h3 align="center">I'm student of <a href="https://technischools.com"><img src="https://technischools.com/wp-content/uploads/2021/04/logoBlue-1.png" alt="Technischools" height="50px"></a> 1st class. Programing is my main hobby.</h3>
 <h4>If you want something from me, just write :)</h4>
+<h4>u40_mikmro_waw@technischools.com</h4>
+<h4>miki@e-buda.eu</h4>
+<h4>miki@twójstary.com.pl</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mikolajmroczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mikolajmroczkowski" height="30" width="40" /></a>
 <a href="https://twitter.com/mroczkowskimiki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mroczkowskimiki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mikołaj mroczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikołaj mroczkowski" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mikołaj-mroczkowski-6aa400228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikołaj mroczkowski" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12178580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12178580" height="30" width="40" /></a>
 <a href="https://fb.com/mikim27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikim27" height="30" width="40" /></a>
 <a href="https://instagram.com/mikolaj.mroczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikolaj.mroczkowski" height="30" width="40" /></a>
