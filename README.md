@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
 <h3 align="center">I'm student of <a href="https://technischools.com"><img src="https://technischools.com/wp-content/uploads/2021/04/logoBlue-1.png" alt="Technischools" height="50px"></a> 1st class. Programing is my main hobby.</h3>
-<h4>If you want sometging form me, just write :)</h4>
+<h4>If you want something from me, just write :)</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mikolajmroczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mikolajmroczkowski" height="30" width="40" /></a>
