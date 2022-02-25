@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
 <h3 align="center">I am student of 1st class in <a href="https://technischools.com"><img src="https://technischools.com/wp-content/uploads/2021/04/logoBlue-1.png" alt="Technischools" height="50px"></a>. I'm 15yo</h3>
 
-- 🌱 I’m currently learning **electron, sqlite**
+- 🌱 I’m currently learning **electron, sqlite, go, java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
